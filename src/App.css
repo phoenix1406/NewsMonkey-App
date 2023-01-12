@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+  width: 100%;
+}
+img{
+  height:10rem;
+}
+#spinnerImg{
+height: 2.5rem;
+}
+
+
+
+

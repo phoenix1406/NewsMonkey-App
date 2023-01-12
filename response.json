@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles" : [
+        {
+          "source": {
+          "id": null,
+          "name": "The Indian Express"
+          },
+          "author": "Science Desk",
+          "title": "Perseverance rover drops second sample on Martian surface - The Indian Express",
+          "description": "NASA's Perseverance Mars Rover deposited a tube containing the longest rock core sample it collected on the Martian surface.",
+          "url": "https://indianexpress.com/article/technology/science/nasa-perseverance-rover-sample-drop-8343352/",
+          "urlToImage": "https://images.indianexpress.com/2022/12/Perseverance-rover-20221225.jpg",
+          "publishedAt": "2022-12-25T08:10:27Z",
+          "content": "NASAs Perseverance rover has dropped an early Christmas present on the Martian surface a second rock sample tube. The 7.3-centimetre-long sample is the longest rock core collected by the Mars rover t… [+1314 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "The Indian Express"
+          },
+          "author": "Tech Desk",
+          "title": "WhatsApp introduces status report feature for desktop beta users - The Indian Express",
+          "description": "The latest beta update for WhatsApp desktop allows users to report statuses that violate WhatsApp policy.",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/whatsapp-desktop-status-report-8343307/",
+          "urlToImage": "https://images.indianexpress.com/2022/12/whatsapp-desktop-update.jpg",
+          "publishedAt": "2022-12-25T07:51:36Z",
+          "content": "The meta-owned cross-platform instant messaging platform continues to add new features. With the latest beta release, WhatsApp desktop users now have the option to report status that might have obsce… [+1342 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "NDTV News"
+          },
+          "author": "NDTV Sports Desk",
+          "title": "Twitter Hails Ravichandran Ashwin, Shreyas Iyer As India Beat Bangladesh In Thriller - NDTV Sports",
+          "description": "IND vs BAN: Chasing 145, Team India was on the verge of losing the game after Mehidy Hasan Miraz got a five-wicket haul and dismantled India's batting lineup",
+          "url": "https://sports.ndtv.com/bangladesh-vs-india-2022-23/fans-former-cricketers-laud-team-india-after-thrilling-win-over-bangladesh-in-2nd-test-3636722",
+          "urlToImage": "https://c.ndtvimg.com/2022-12/s1ia6v5o_ashwin-iyer-twitter-806_625x300_25_December_22.jpg",
+          "publishedAt": "2022-12-25T07:27:00Z",
+          "content": "December 25, 2022, will now be remembered as a very special day for Team India as the KL Rahul-led side fought their way back to clinch victory in the second Test match against Bangladesh in Dhaka. C… [+4020 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Abplive.com"
+          },
+          "author": "ABP News Bureau",
+          "title": "Mann Ki Baat: Wash Hands, Wear Mask To Remain Safe, PM Modi Advices Citizens Amid Global Covid Scare - ABP Live",
+          "description": "PM Modi said that Covid-19 cases are increasing across the globe and it is important to stay alert and follow Covid appropriate behaviour.",
+          "url": "https://news.abplive.com/news/india/mann-ki-baat-96th-2022-last-narendra-modi-wash-hands-wear-mask-to-remain-safe-pm-modi-advices-citizens-amid-global-covid-scare-1571675",
+          "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/12/25/962e5d1a9439c84a90e80900417972d21671949762947594_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+          "publishedAt": "2022-12-25T06:41:14Z",
+          "content": "PM Modi Mann Ki Baat: Prime Minister Narendra Modi on Sunday advised citizens to follow all Covid-1p protocols including wearing masks and washing hands regularly to stay safe from the infection. PM … [+2620 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Hindustan Times"
+          },
+          "author": "HT Sports Desk",
+          "title": "How Team India left Pakistan on thin ice in race for WTC final after win vs BAN - Hindustan Times",
+          "description": "With the win in Mirpur, which handed India a clean sweep over Bangladesh, Pakistan were left on thin ice in their race for a place in the World Test Championship final. | Cricket",
+          "url": "https://www.hindustantimes.com/cricket/how-team-india-left-pakistan-on-thin-ice-in-race-for-wtc-final-after-cleansweep-against-bangladesh-101671944951312.html",
+          "urlToImage": "https://images.hindustantimes.com/img/2022/12/25/1600x900/New_Project_-_2022-12-25T104359913_1671945352730_1671945352896_1671945352896.jpg",
+          "publishedAt": "2022-12-25T06:32:04Z",
+          "content": "Bangladesh started right from where they left off on Day 3 in Dhaka as Mehidy Hasan Miraz completed a sensational five-wicket haul by sending back a well-set Axar Patel and the dangerous Rishabh Pant… [+1976 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "NDTV News"
+          },
+          "author": null,
+          "title": "\"We Stand Ready...\": China On Ties With India Weeks After Troops Clashed - NDTV",
+          "description": "Chinese Foreign Minister Wang Yi, on Sunday, said that China is ready to work with India through steady and sound growth of the relations, according to the Chinese Foreign Ministry website.",
+          "url": "https://www.ndtv.com/india-news/toward-steady-sound-china-says-it-stands-ready-to-work-with-india-3636530",
+          "urlToImage": "https://c.ndtvimg.com/2020-09/d41je53g_india-china-border-arunachal-pradesh-reuters_625x300_02_September_20.jpg",
+          "publishedAt": "2022-12-25T06:23:00Z",
+          "content": "India says the two sides have agreed to maintain the security and stability on the ground (File)\r\nBeijing: Chinese Foreign Minister Wang Yi, on Sunday, said that China is ready to work with India thr… [+1354 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "NDTV News"
+          },
+          "author": null,
+          "title": "Sheezan Khan, Co-Star Of Actor Tunisha Sharma, Arrested In Suicide Case - NDTV",
+          "description": "The 20-year-old actor was found hanging in the washroom; police had to break open the door after she did not come out for a long time. The shooting crew took her to a hospital at around 1:30 am, where she was declared dead.",
+          "url": "https://www.ndtv.com/india-news/co-actor-sheezan-khan-arrested-in-suicide-case-day-after-tv-star-tunisha-sharma-found-dead-on-set-3636518",
+          "urlToImage": "https://c.ndtvimg.com/2022-12/gr5j5if_sheezan-mohammed-khan_625x300_25_December_22.jpg",
+          "publishedAt": "2022-12-25T05:55:00Z",
+          "content": "Sheezan Khan was arrested after the actor's mother filed a complaint against him.\r\nMumbai: Sheezan Mohammed Khan, co-star of actor Tunisha Sharma -- a television actor who on Saturday allegedly died … [+2198 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Livemint"
+          },
+          "author": "PTI",
+          "title": "Mcap of 10 most valued firms erodes by ₹1.68 lakh cr; Reliance biggest drag | Mint - Mint",
+          "description": "In the ranking of top-10 companies, Reliance Industries retained the title of the most valued firm followed by TCS, HDFC Bank, Infosys, Hindustan Unilever, ICICI Bank, State Bank of India, HDFC, Bharti Airtel and LIC",
+          "url": "https://www.livemint.com/market/stock-market-news/mcap-of-10-most-valued-firms-erodes-by-rs-1-68-lakh-cr-reliance-biggest-drag-11671944041647.html",
+          "urlToImage": "https://images.livemint.com/img/2022/12/25/600x338/Reliance_1671944576094_1671944576545_1671944576545.JPG",
+          "publishedAt": "2022-12-25T05:03:30Z",
+          "content": "The combined market valuation of the top 10 valued firms eroded by 1,68,552.42 crore last week, with Reliance Industries taking the biggest hit in an overall weak broader market. Last week, the Sense… [+1539 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Hindustan Times"
+          },
+          "author": "HT Tech",
+          "title": "Steal deal! iPhone 11 price slips to 20499 from 43900 on Flipkart ahead of New Year - HT Tech",
+          "description": "You have a great chance to save huge amount of money while getting a new iPhone 11 at a whopping discount. Check this deal on Flipkart.",
+          "url": "https://tech.hindustantimes.com/mobile/news/steal-deal-iphone-11-price-slips-to-20499-from-43900-on-flipkart-ahead-of-new-year-71671943568803.html",
+          "urlToImage": "https://images.hindustantimes.com/tech/img/2022/12/25/1600x900/pexels-kenejd-spahiu-10797395_1671944336859_1671944352831_1671944352831.jpg",
+          "publishedAt": "2022-12-25T05:01:11Z",
+          "content": "To let you welcome a new smartphone before the end of this year, Flipkart is hosting Year End Sale till December 31, 2022. From budget to state-of-the-art smartphones; indigenous names to global big-… [+1926 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "Covid update: India logs 227 new cases, 2 deaths in a day | Mint - Mint",
+          "description": "India's Covid case tally was recorded at 4.46 crore (4,46,77,106).",
+          "url": "https://www.livemint.com/news/india/covid-update-india-logs-227-new-cases-2-deaths-in-a-day-11671933224736.html",
+          "urlToImage": "https://images.livemint.com/img/2022/12/25/600x338/Covid_1671943471430_1671943471585_1671943471585.jpg",
+          "publishedAt": "2022-12-25T04:50:44Z",
+          "content": "Covid-19 cases in India are increasing with a slight margin. The country has recorded 227 new coronavirus infections, while the active cases increased to 3,424, according to the Union Health Ministry… [+1484 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Www.bgr.in"
+          },
+          "author": "Md Waquar Haider",
+          "title": "Samsung fixes Microsoft Intune issue on Galaxy S22, S21: All you need to know - BGR India",
+          "description": "Samsung has fixed Microsoft Intune a cloud-based unified endpoint management service issue",
+          "url": "https://www.bgr.in/news/samsung-fixes-microsoft-intune-issue-on-galaxy-s22-s21-all-you-need-to-know-1351923/",
+          "urlToImage": "https://st1.bgr.in/wp-content/uploads/2022/12/Samsung-Galaxy-S22-1.jpg",
+          "publishedAt": "2022-12-25T04:16:48Z",
+          "content": "Samsung has fixed Microsoft Intune, a cloud-based unified endpoint management service, issue on Galaxy S22 and Galaxy S21 smartphones running Android 13. A few users had been facing issues with the I… [+1809 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "Garena Free Fire Max redeem codes December 25, 2022: Claim daily rewards | Mint - Mint",
+          "description": "There is also a dedicated microsite where Garena Free Fire Max players can visit to redeem the available codes.",
+          "url": "https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-december-25-2022-claim-daily-rewards-11671941621289.html",
+          "urlToImage": "https://images.livemint.com/img/2022/12/25/600x338/Garena_Free_Fire_Max__1671941720844_1671941721093_1671941721093.jpg",
+          "publishedAt": "2022-12-25T04:15:59Z",
+          "content": "Garena Free Fire Max redeem codes for December 25, 2022 are now available. Players can use these redeem codes to win in-game items like weapons, diamonds, skins and more. For those unaware, Garena Fr… [+1947 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Hindustan Times"
+          },
+          "author": "Swati Bhasin",
+          "title": "Atal Bihari Vajpayee paid rich respects as PM Modi recalls his legacy| Videos - Hindustan Times",
+          "description": "Atal Bihari Vajpayee's birth anniversary is marked as “Good Governance Day”.  | Latest News India",
+          "url": "https://www.hindustantimes.com/india-news/atal-bihari-vajpayee-paid-rich-respects-as-pm-modi-recalls-his-legacy-videos-101671941204097.html",
+          "urlToImage": "https://images.hindustantimes.com/img/2022/12/25/1600x900/Modi_Murmu_1671941301570_1671941314859_1671941314859.jpg",
+          "publishedAt": "2022-12-25T04:11:35Z",
+          "content": "Former Prime Minister of India and veteran BJP leader Atal Bihari Vajpayee - hailed as the \"man of the masses\" - was on Sunday paid rich respects by President Droupadi Murmu, PM Narendra Modi, Union … [+1833 chars]"
+          },
+          {
+          "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+          },
+          "author": "Nikhil Agarwal",
+          "title": "Last week of 2022: Top 7 factors that may impact Nifty bulls - Economic Times",
+          "description": "NSDL data shows FIIs have invested over Rs 7,200 crore so far in December.  FIIs are likely to turn cautious in the near term. Macro data from the US and Covid news will drive FII flows and the markets in the near term,  said Dr.V K Vijayakumar, Chief Investm…",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/last-week-of-2022-top-7-factors-that-may-impact-nifty-bulls/articleshow/96483255.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-96483291,width-1070,height-580,imgsize-55992,overlay-etmarkets/photo.jpg",
+          "publishedAt": "2022-12-25T03:25:00Z",
+          "content": "NEW DELHI: Old fears related to recession, Fed rate hikes and spread of Covid in China empowered Nifty bears this week with the headline indices losing around 2.5%, the highest weekly loss in over 6 … [+2548 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Moneycontrol"
+          },
+          "author": "Sunil Shankar Matkar",
+          "title": "Dalal Street Week Ahead: 10 key factors that will keep traders busy next week - Moneycontrol",
+          "description": "The equity benchmarks settled in the red for third straight week, falling nearly 6 percent from their fresh record highs scaled on December 1",
+          "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-10-key-factors-that-will-keep-traders-busy-next-week-49-9759781.html",
+          "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/07/SensexBSENSE-770x433.jpg",
+          "publishedAt": "2022-12-25T03:17:02Z",
+          "content": "The market further succumbed to the selling pressure and lost 2.5 percent for the week ended December 23, and recorded the biggest weekly loss since June. Weak global cues, fear of recession, anticip… [+9335 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Livemint"
+          },
+          "author": "Alka Jain",
+          "title": "Winter storm: 18 people killed in US as bone chilling cold continues | Mint - Mint",
+          "description": "US: The officials have attributed deaths to exposure, car crashes, a falling tree limb, other effects of the winter storm.",
+          "url": "https://www.livemint.com/news/world/winter-storm-18-people-killed-in-us-as-bone-chilling-cold-continues-11671933639658.html",
+          "urlToImage": "https://images.livemint.com/img/2022/12/25/600x338/US_winter_storm_1671935338966_1671935339168_1671935339168.JPG",
+          "publishedAt": "2022-12-25T02:32:16Z",
+          "content": "At least 18 people killed in the US winter storm as bone-chilling cold continues to grip the country throughout this holiday weekend. The monster storm has knocked out power to thousands of homes and… [+1915 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "Measles: Mumbai cases rise to 514, tally in Maharashtra at 1,162 | Mint - Mint",
+          "description": "Mumbai has reported 2 new cases of measles taking the total tally to 514 while cases in Maharashtra stood at 1,162",
+          "url": "https://www.livemint.com/news/india/measles-mumbai-cases-rise-to-514-tally-in-maharashtra-at-1162-11671931515062.html",
+          "urlToImage": "https://images.livemint.com/img/2022/12/25/600x338/According-to-the-BMC--the-child-did-not-receive-va_1671931746174_1671931746322_1671931746322.jpg",
+          "publishedAt": "2022-12-25T02:22:37Z",
+          "content": "Mumbai has reported two new cases of measles, taking the total infection tally to 514 while the death toll remained unchanged. Meanwhile, measles cases in Maharashtra stood at 1,162 on Friday, while … [+1712 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "NDTV News"
+          },
+          "author": null,
+          "title": "China To Stop Publishing Daily Covid Cases Amid Fresh Surge - NDTV",
+          "description": "China's National Health Commission, which for the past three years or so has published daily COVID-19 case figures for the country, said it will no longer release such data from Sunday.",
+          "url": "https://www.ndtv.com/world-news/china-to-stop-publishing-daily-covid-cases-amid-fresh-surge-3636454",
+          "urlToImage": "https://c.ndtvimg.com/2022-12/7hiabfao_china-covid_625x300_24_December_22.jpg",
+          "publishedAt": "2022-12-25T02:20:32Z",
+          "content": "Beijing: China's National Health Commission, which for the past three years or so has published daily COVID-19 case figures for the country, said it will no longer release such data from Sunday.\r\n\"Re… [+375 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "Hindustan Times"
+          },
+          "author": "HT Entertainment Desk",
+          "title": "Christmas: Alia shines the brightest, Ranbir keeps it simple at family dinner - Hindustan Times",
+          "description": "Both Alia Bhatt and Ranbir Kapoor's families came together on the Christmas eve for a warm celebration. Pooja Bhatt and Ayan Mukerji also joined them in the festivities. | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/christmas-alia-shines-the-brightest-ranbir-keeps-it-simple-at-family-dinner-101671932413636.html",
+          "urlToImage": "https://images.hindustantimes.com/img/2022/12/25/1600x900/ALIA_BHATT_CHRISTMAS_1671933962882_1671933963077_1671933963077.jpg",
+          "publishedAt": "2022-12-25T02:19:17Z",
+          "content": "Alia Bhatt and Ranbir Kapoor celebrated their first Christmas after their wedding this year and the arrival of their baby girl Raha. Alia's mom Soni Razdan hosted the Christmas dinner on Saturday and… [+1992 chars]"
+          },
+          {
+          "source": {
+          "id": null,
+          "name": "123telugu.com"
+          },
+          "author": null,
+          "title": "Shocker : Senior actor Chalapathi Rao passes away | 123telugu.com - 123telugu",
+          "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+          "url": "https://www.123telugu.com/mnews/shocker-senior-actor-chalapathi-rao-passes-away.html",
+          "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+          "publishedAt": "2022-12-25T02:11:00Z",
+          "content": "While the Tollywood Film Industry (TFI) is in grief over the loss of the legendary actor Kaikala Satyanarayana garu, another great actor has passed away. \r\nSenior actor Chalapathi Rao garu breathed h… [+1081 chars]"
+          }
+        ]
+}
